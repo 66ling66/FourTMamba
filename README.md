@@ -1,4 +1,4 @@
 # DDLLIE
 ![visual_results](visual_results.jpg)
-<img src="model.png" alt="示例图片" width="500">
+![model struct](model.png)
 code will come soon!
